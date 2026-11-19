@@ -1,3 +1,9 @@
+> **Muzik Desktop has moved.** Android, Windows, macOS and Linux are now built
+> and released together, with one version line, in
+> [MuzikGroup/Muzik](https://github.com/MuzikGroup/Muzik). This repository is
+> archived and kept for history — grab the latest installers from the
+> [Muzik releases page](https://github.com/MuzikGroup/Muzik/releases/latest).
+
 <div align="center">
 
 # Muzik for Desktop
